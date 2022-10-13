@@ -4,6 +4,8 @@
 
 ## Credits: Luis Rosales, Stephanie Hill, Demo Code reference
 
+[Dynamo DB People Link](https://yt62e82vol.execute-api.us-east-2.amazonaws.com/lab18/people)
+
 ## Problem Domain
 
 Create a serverless REST API
