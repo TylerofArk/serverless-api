@@ -31,3 +31,5 @@ Create a single resource REST API on AWS Cloud Services with DynamoDB. Testing d
 ### DELETE
 
  /people/## - Given an id (##) removes the matching record from the database returns an empty object CRUD Operation Handlers: Lambda Functions
+
+![UML](./assets/Lab18_UML.png)
