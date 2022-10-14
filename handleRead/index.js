@@ -27,4 +27,4 @@ exports.handler = async (event) => {
 				response.body = JSON.stringify(e.message);
 		}
     return response;
-};
+};      
